@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+    printf("@\n");
+    printf("#\n");
+    printf("$\n");
+    printf("%%\n"); // use %% to print a single %
+
+    return 0;
+}
+
