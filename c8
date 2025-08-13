@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    printf("ABC College of Engineering\n");
+    return 0;
+}
+
